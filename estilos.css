@@ -26,7 +26,7 @@
         height: 70vh;
         display: grid;
         align-items: center;
-        background-color:rgb(208, 18, 87);
+        background-color: $background_color;
         margin-top: 38em;
         transform: translateX(170%);
         
