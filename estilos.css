@@ -5,8 +5,9 @@
 
 @media only screen and (max-width: 600px){
 
-    body {
-        background-color: rgb(220, 147, 181);
+
+    body{
+        background-color: rgb(208, 18, 87);
     }
 
     .navbar {
@@ -26,7 +27,7 @@
         height: 70vh;
         display: grid;
         align-items: center;
-        background-color: $background_color;
+        background-color: rgb(208, 18, 87) ;
         margin-top: 38em;
         transform: translateX(170%);
         
